@@ -1,0 +1,16 @@
+{"time":"2024-12-04T22:06:20.307737899-05:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-04T22:06:20.307760987-05:00","level":"INFO","msg":"created symlink","path":"/home/aasija1/temp_run_wavelets/wandb/run-20241204_220620-ohtxi452/logs/debug-core.log"}
+{"time":"2024-12-04T22:06:20.421897961-05:00","level":"INFO","msg":"created new stream","id":"ohtxi452"}
+{"time":"2024-12-04T22:06:20.421927342-05:00","level":"INFO","msg":"stream: started","id":"ohtxi452"}
+{"time":"2024-12-04T22:06:20.423335466-05:00","level":"INFO","msg":"handler: started","stream_id":"ohtxi452"}
+{"time":"2024-12-04T22:06:20.423379451-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"ohtxi452"}
+{"time":"2024-12-04T22:06:20.423524484-05:00","level":"INFO","msg":"sender: started","stream_id":"ohtxi452"}
+{"time":"2024-12-04T22:06:20.570901657-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-04T22:06:25.885468847-05:00","level":"INFO","msg":"stream: closing","id":"ohtxi452"}
+{"time":"2024-12-04T22:06:25.885525494-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-04T22:06:25.887247614-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-04T22:06:26.199382766-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-04T22:06:26.292361985-05:00","level":"INFO","msg":"handler: closed","stream_id":"ohtxi452"}
+{"time":"2024-12-04T22:06:26.292388647-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ohtxi452"}
+{"time":"2024-12-04T22:06:26.292463954-05:00","level":"INFO","msg":"sender: closed","stream_id":"ohtxi452"}
+{"time":"2024-12-04T22:06:26.292475134-05:00","level":"INFO","msg":"stream: closed","id":"ohtxi452"}

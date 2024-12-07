@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/aasija1/temp_run_wavelets/wcnn.py", line 322, in <module>
+    train_loader, num_classes = get_medmnist_dataloader(dataset_flag, "train", batch_size)
+  File "/home/aasija1/temp_run_wavelets/wcnn.py", line 214, in get_medmnist_dataloader
+    dataset_class = getattr(medmnist, info['python_class'])
+NameError: name 'medmnist' is not defined

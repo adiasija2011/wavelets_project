@@ -1,0 +1,16 @@
+{"time":"2024-12-04T22:07:09.306907847-05:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-04T22:07:09.306929991-05:00","level":"INFO","msg":"created symlink","path":"/home/aasija1/temp_run_wavelets/wandb/run-20241204_220709-x5xnha63/logs/debug-core.log"}
+{"time":"2024-12-04T22:07:09.421459804-05:00","level":"INFO","msg":"created new stream","id":"x5xnha63"}
+{"time":"2024-12-04T22:07:09.421487826-05:00","level":"INFO","msg":"stream: started","id":"x5xnha63"}
+{"time":"2024-12-04T22:07:09.422882983-05:00","level":"INFO","msg":"handler: started","stream_id":"x5xnha63"}
+{"time":"2024-12-04T22:07:09.422926652-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"x5xnha63"}
+{"time":"2024-12-04T22:07:09.423617806-05:00","level":"INFO","msg":"sender: started","stream_id":"x5xnha63"}
+{"time":"2024-12-04T22:07:09.570705169-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-04T22:07:15.09124434-05:00","level":"INFO","msg":"stream: closing","id":"x5xnha63"}
+{"time":"2024-12-04T22:07:15.091290988-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-04T22:07:15.092637428-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-04T22:07:15.390110507-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-04T22:07:15.491764093-05:00","level":"INFO","msg":"handler: closed","stream_id":"x5xnha63"}
+{"time":"2024-12-04T22:07:15.491807919-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"x5xnha63"}
+{"time":"2024-12-04T22:07:15.491874869-05:00","level":"INFO","msg":"sender: closed","stream_id":"x5xnha63"}
+{"time":"2024-12-04T22:07:15.491885101-05:00","level":"INFO","msg":"stream: closed","id":"x5xnha63"}

@@ -1,0 +1,10 @@
+Using downloaded and verified file: /home/aasija1/.medmnist/pathmnist.npz
+/home/aasija1/.conda/envs/env2/lib/python3.10/site-packages/torch/utils/data/dataloader.py:617: UserWarning: This DataLoader will create 4 worker processes in total. Our suggested max number of worker in current system is 1, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(
+Using downloaded and verified file: /home/aasija1/.medmnist/pathmnist.npz
+Traceback (most recent call last):
+  File "/home/aasija1/temp_run_wavelets/wcnn.py", line 346, in <module>
+    model, val_acc_history, train_acc_history = train_model(
+  File "/home/aasija1/temp_run_wavelets/wcnn.py", line 243, in train_model
+    accuracy = Accuracy().to(device)
+TypeError: Accuracy.__new__() missing 1 required positional argument: 'task'

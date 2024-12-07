@@ -1,0 +1,98 @@
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Currently logged in as: adiasija10. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.19.0
+wandb: Run data is saved locally in /home/aasija1/temp_run_wavelets/wandb/run-20241204_222007-hppmle9f
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run true-wave-8
+wandb: ⭐️ View project at https://wandb.ai/adiasija10/wavelet-cnn
+wandb: 🚀 View run at https://wandb.ai/adiasija10/wavelet-cnn/runs/hppmle9f
+/home/aasija1/.conda/envs/env2/lib/python3.10/site-packages/torch/utils/data/dataloader.py:617: UserWarning: This DataLoader will create 4 worker processes in total. Our suggested max number of worker in current system is 1, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(
+Using downloaded and verified file: /home/aasija1/.medmnist/pathmnist.npz
+Using downloaded and verified file: /home/aasija1/.medmnist/pathmnist.npz
+len train loader:2813 , validation loader :313
+Epoch 1/20
+----------
+train Loss: 42248.6413, Accuracy: 0.8329
+val Loss: 3014.2517, Accuracy: 0.8925
+Epoch 2/20
+----------
+train Loss: 21682.8909, Accuracy: 0.9158
+val Loss: 2333.6912, Accuracy: 0.9168
+Epoch 3/20
+----------
+train Loss: 16288.0241, Accuracy: 0.9382
+val Loss: 2167.3496, Accuracy: 0.9246
+Epoch 4/20
+----------
+train Loss: 13079.1749, Accuracy: 0.9501
+val Loss: 2356.8043, Accuracy: 0.9195
+Epoch 5/20
+----------
+train Loss: 10689.8585, Accuracy: 0.9593
+val Loss: 5366.0114, Accuracy: 0.8179
+Epoch 6/20
+----------
+train Loss: 9220.8508, Accuracy: 0.9651
+val Loss: 1371.0123, Accuracy: 0.9524
+Epoch 7/20
+----------
+train Loss: 7839.5204, Accuracy: 0.9705
+val Loss: 4582.6547, Accuracy: 0.8572
+Epoch 8/20
+----------
+train Loss: 6925.1612, Accuracy: 0.9733
+val Loss: 3088.8379, Accuracy: 0.9057
+Epoch 9/20
+----------
+train Loss: 6101.8081, Accuracy: 0.9767
+val Loss: 1099.9121, Accuracy: 0.9608
+Epoch 10/20
+----------
+train Loss: 5477.8721, Accuracy: 0.9793
+val Loss: 2412.8818, Accuracy: 0.9176
+Epoch 11/20
+----------
+train Loss: 5102.2632, Accuracy: 0.9807
+val Loss: 1454.0106, Accuracy: 0.9515
+Epoch 12/20
+----------
+train Loss: 4566.6043, Accuracy: 0.9826
+val Loss: 1456.7288, Accuracy: 0.9539
+Epoch 13/20
+----------
+train Loss: 4102.3221, Accuracy: 0.9845
+val Loss: 2410.4625, Accuracy: 0.9212
+Epoch 14/20
+----------
+train Loss: 3856.4950, Accuracy: 0.9850
+val Loss: 1301.4561, Accuracy: 0.9584
+Epoch 15/20
+----------
+train Loss: 3516.7343, Accuracy: 0.9865
+val Loss: 435.6038, Accuracy: 0.9871
+Epoch 16/20
+----------
+train Loss: 3194.9453, Accuracy: 0.9880
+val Loss: 486.7076, Accuracy: 0.9825
+Epoch 17/20
+----------
+train Loss: 2906.1023, Accuracy: 0.9890
+val Loss: 553.0826, Accuracy: 0.9814
+Epoch 18/20
+----------
+train Loss: 2866.5713, Accuracy: 0.9892
+val Loss: 575.3046, Accuracy: 0.9810
+Epoch 19/20
+----------
+train Loss: 2606.4588, Accuracy: 0.9903
+val Loss: 456.3183, Accuracy: 0.9854
+Epoch 20/20
+----------
+train Loss: 2472.3004, Accuracy: 0.9906
+val Loss: 561.9456, Accuracy: 0.9808
+wandb:                                                                                
+wandb: 🚀 View run true-wave-8 at: https://wandb.ai/adiasija10/wavelet-cnn/runs/hppmle9f
+wandb: ⭐️ View project at: https://wandb.ai/adiasija10/wavelet-cnn
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20241204_222007-hppmle9f/logs
